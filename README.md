@@ -1,4 +1,4 @@
-# apus
+# APUS
 
 This project combines RDMA and Paxos. The raw evaluation results are available here:  
 1. [performance on replicated programs](https://docs.google.com/spreadsheets/d/1_lMG-KMgHAQldZoaiktpokGsiDU1_43BrXGY0BVZkWY/edit#gid=0)  
