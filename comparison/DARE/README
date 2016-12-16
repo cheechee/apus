@@ -62,8 +62,4 @@ Folder overview
 ./utils 
     - rbtree -- red-black Trees implementation (Linux)
     - libev-4.15.tar.gz 
- 
-[1]  M. Poke, T. Hoefler: DARE: High-Performance State Machine Replication on RDMA Networks. 
-In Proceedings of the 24th ACM International Symposium on High-Performance Parallel and 
-Distributed Computing (HPDC’15)
 
