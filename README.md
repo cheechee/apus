@@ -13,3 +13,6 @@ Use $RDMA_ROOT/RDMA/mk to download and install the dependencies for the program.
 We have prepared all the Makefiles for you in each application's directory.
 ### Run the evaluation framework
 For example, to run Redis hooked by APUS, just go to $RDMA_ROOT/eval and run `python eval.py -f redis-output.cfg`. After that, you can collect the results by `cd current`.
+## Throughput during group reconfiguration
+Evaluated with Redis (12 parallel clients). The ping latency between the client machine and the server machine is 0.082 ms.
+![reconfiguration](https://github.com/icdcs17-p256/apus/blob/master/extra-figures/reconfiguration.png)
